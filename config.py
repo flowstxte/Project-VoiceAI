@@ -1,0 +1,2 @@
+# OpenRouter API key
+OPENROUTER_API_KEY = "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"
