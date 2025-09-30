@@ -1,5 +1,4 @@
 MIT License
-
 Copyright (c) 2025 @flowstxte
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,19 +18,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-### Acknowledgments
-
-- This project uses the DeepSeek AI model via OpenRouter
-- Speech recognition is powered by Google's speech recognition service
-- Text-to-speech is handled by pyttsx3
-
-### Future Improvements
-
-- Add conversation history to maintain context
-- Implement wake word detection
-- Add support for multiple languages
-- Create a graphical user interface
-- Add ability to save conversations
